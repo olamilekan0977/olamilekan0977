@@ -105,6 +105,19 @@ featuring VLAN segmentation, inter-VLAN routing, DHCP, wireless connectivity, an
 
 <br>
 
+<!-- ================= CONTRIBUTION SNAKE ================= -->
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/olamilekan0977/olamilekan0977/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/olamilekan0977/olamilekan0977/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/olamilekan0977/olamilekan0977/output/github-snake.svg" />
+  </picture>
+</div>
+
+<br>
+
 <!-- ================= CONNECT ================= -->
 <h2 align="center">📫 Let's Connect</h2>
 
